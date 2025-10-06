@@ -25,7 +25,7 @@ const certCategories: CertCategory[] = [
         title: 'Microsoft Certified: Azure Fundamentals', 
         issuer: 'Microsoft', 
         year: '2021',
-        image: '/certificates/microsoft-certified-azure-fundamentals.jpg',
+        image: '/about-me/certificates/microsoft-certified-azure-fundamentals.jpg',
         link: 'https://www.credly.com/badges/50e9393c-1a51-4d67-b816-b4d8c7203dd3/public_url',
         credentialId: 'AZ-900'
       },
@@ -33,21 +33,21 @@ const certCategories: CertCategory[] = [
         title: 'Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/getting-started-with-microservices-with-istio-and-i.png',
+        image: '/about-me/certificates/getting-started-with-microservices-with-istio-and-i.png',
         link: 'https://www.credly.com/badges/ca2100fb-88d2-4f43-b2ae-455b01595c62/public_url'
       },
       { 
         title: 'IBM Cloud Kubernetes Service', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/ibm-cloud-kubernetes-service.png',
+        image: '/about-me/certificates/ibm-cloud-kubernetes-service.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       },
       { 
         title: 'Docker Essentials - A Developer Introduction', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/docker-essentials-a-developer-introduction.png',
+        image: '/about-me/certificates/docker-essentials-a-developer-introduction.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       }
     ]
@@ -60,84 +60,84 @@ const certCategories: CertCategory[] = [
         title: 'Python Data Science', 
         issuer: 'Simplilearn', 
         year: '2019',
-        image: '/certificates/python-data-science.jpg',
+        image: '/about-me/certificates/python-data-science.jpg',
         link: 'https://success.simplilearn.com/5b01a24e-1217-47f1-959b-9da77c37bb90#gs.5fkqax'
       },
       { 
         title: 'Data Science Capstone', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Data Science Capstone.png',
+        image: '/about-me/certificates/Data Science Capstone.png',
         link: 'https://www.coursera.org/account/accomplishments/example'
       },
       { 
         title: 'Data Science with Python', 
         issuer: 'Simplilearn', 
         year: '2020',
-        image: '/certificates/Data Science with Python.png',
+        image: '/about-me/certificates/Data Science with Python.png',
         link: 'https://success.simplilearn.com/5b01a24e-1217-47f1-959b-9da77c37bb90#gs.5fkqax'
       },
       { 
         title: 'Data Science with R', 
         issuer: 'Simplilearn', 
         year: '2020',
-        image: '/certificates/Data Science with R.png',
+        image: '/about-me/certificates/Data Science with R.png',
         link: 'https://success.simplilearn.com/5b01a24e-1217-47f1-959b-9da77c37bb90#gs.5fkqax'
       },
       { 
         title: 'Data Science with SAS Training', 
         issuer: 'Simplilearn', 
         year: '2020',
-        image: '/certificates/Data Science with SAS Training.png',
+        image: '/about-me/certificates/Data Science with SAS Training.png',
         link: 'https://success.simplilearn.com/5b01a24e-1217-47f1-959b-9da77c37bb90#gs.5fkqax'
       },
       { 
         title: 'Machine Learning Advanced Certification Training', 
         issuer: 'Simplilearn', 
         year: '2020',
-        image: '/certificates/Machine Learning Advanced Certification Training.png',
+        image: '/about-me/certificates/Machine Learning Advanced Certification Training.png',
         link: 'https://success.simplilearn.com/5b01a24e-1217-47f1-959b-9da77c37bb90#gs.5fkqax'
       },
       { 
         title: 'Big Data Hadoop and Spark Developer', 
         issuer: 'Simplilearn', 
         year: '2020',
-        image: '/certificates/Big Data Hadoop and Spark Developer.png',
+        image: '/about-me/certificates/Big Data Hadoop and Spark Developer.png',
         link: 'https://success.simplilearn.com/5b01a24e-1217-47f1-959b-9da77c37bb90#gs.5fkqax'
       },
       { 
         title: 'Tableau Desktop 10', 
         issuer: 'Simplilearn', 
         year: '2020',
-        image: '/certificates/Tableau Desktop 10.png',
+        image: '/about-me/certificates/Tableau Desktop 10.png',
         link: 'https://success.simplilearn.com/5b01a24e-1217-47f1-959b-9da77c37bb90#gs.5fkqax'
       },
       { 
         title: 'IBM Watson Machine Learning Essentials', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/ibm-watson-machine-learning-essentials.png',
+        image: '/about-me/certificates/ibm-watson-machine-learning-essentials.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       },
       { 
         title: 'IBM Watson Studio Visual Recognition Essentials', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/ibm-watson-studio-visual-recognition-essentials.png',
+        image: '/about-me/certificates/ibm-watson-studio-visual-recognition-essentials.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       },
       { 
         title: 'Watson Discovery Foundations', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/watson-discovery-foundations.png',
+        image: '/about-me/certificates/watson-discovery-foundations.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       },
       { 
         title: 'Watson Speech to Text', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/watson-speech-to-text.png',
+        image: '/about-me/certificates/watson-speech-to-text.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       }
     ]
@@ -150,21 +150,21 @@ const certCategories: CertCategory[] = [
         title: 'Mainframe Application Programmer - CICS V5.3 Programming (Experienced)', 
         issuer: 'Interskill', 
         year: '2018',
-        image: '/certificates/interskill-mainframe-application-programmer-cics-v5-3-programming-experienced.png',
+        image: '/about-me/certificates/interskill-mainframe-application-programmer-cics-v5-3-programming-experienced.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       },
       { 
         title: 'Mainframe Application Programmer - COBOL Programming (Expert)', 
         issuer: 'Interskill', 
         year: '2018',
-        image: '/certificates/interskill-mainframe-application-programmer-cobol-programming-expert.png',
+        image: '/about-me/certificates/interskill-mainframe-application-programmer-cobol-programming-expert.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       },
       { 
         title: 'Mainframe Application Programmer - DB2 Programming (Experienced)', 
         issuer: 'Interskill', 
         year: '2018',
-        image: '/certificates/interskill-mainframe-application-programmer-db2-programming-experienced.png',
+        image: '/about-me/certificates/interskill-mainframe-application-programmer-db2-programming-experienced.png',
         link: 'https://www.credly.com/users/kottapalli-manikanta/badges'
       },
     ]
@@ -177,70 +177,70 @@ const certCategories: CertCategory[] = [
         title: 'New Managment Orientation', 
         issuer: 'UPS', 
         year: '2025',
-        image: '/certificates/New-Management-Orientation.png',
+        image: '/about-me/certificates/New-Management-Orientation.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Enterprise Design Thinking Practitioner', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/enterprise-design-thinking-practitioner.png',
+        image: '/about-me/certificates/enterprise-design-thinking-practitioner.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Agile Principles and Methodologies', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Agile Principles and Methodologies.png',
+        image: '/about-me/certificates/Agile Principles and Methodologies.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Delivering Feedback That Encourages Growth', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Delivering Feedback That Encourages Growth.png',
+        image: '/about-me/certificates/Delivering Feedback That Encourages Growth.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Effective Team Communication', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Effective Team Communication.png',
+        image: '/about-me/certificates/Effective Team Communication.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Handling Team Conflict', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Handling Team Conflict.png',
+        image: '/about-me/certificates/Handling Team Conflict.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Leading through Problem Solving and Decision Making', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Leading through Problem Solving and Decision Making.png',
+        image: '/about-me/certificates/Leading through Problem Solving and Decision Making.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Moving from Me to We with Delegation', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Moving from Me to We with Delegation.png',
+        image: '/about-me/certificates/Moving from Me to We with Delegation.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Polishing Your Feedback Skills', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Polishing Your Feedback Skills.png',
+        image: '/about-me/certificates/Polishing Your Feedback Skills.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       },
       { 
         title: 'Technical Product Management Performance Metrics & Analytics', 
         issuer: 'IBM', 
         year: '2020',
-        image: '/certificates/Technical Product Management Performance Metrics & Analytics.png',
+        image: '/about-me/certificates/Technical Product Management Performance Metrics & Analytics.png',
         link: 'https://skillsoft.digitalbadges.skillsoft.com/profile/manikantakottapalli950568/wallet'
       }
     ]
@@ -253,14 +253,14 @@ const certCategories: CertCategory[] = [
   //       title: 'Security and Privacy by Design Foundations', 
   //       issuer: 'IBM', 
   //       year: '2020',
-  //       image: '/certificates/security-and-privacy-by-design-foundations.png',
+  //       image: '/about-me/certificates/security-and-privacy-by-design-foundations.png',
   //       link: 'https://www.credly.com/badges/example'
   //     },
   //     { 
   //       title: 'Travel and Transportation Industry Jumpstart', 
   //       issuer: 'IBM', 
   //       year: '2020',
-  //       image: '/certificates/travel-and-transportation-industry-jumpstart.1.png',
+  //       image: '/about-me/certificates/travel-and-transportation-industry-jumpstart.1.png',
   //       link: 'https://www.credly.com/badges/example'
   //     }
   //   ]

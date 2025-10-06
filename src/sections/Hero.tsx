@@ -144,7 +144,7 @@ export function Hero() {
           >
             <motion.a 
               className="btn btn-primary flex items-center gap-2 px-6 py-3 text-base font-semibold"
-              href="/resume.pdf" 
+              href="/about-me/resume.pdf" 
               download
               whileHover={{ scale: 1.05, boxShadow: "0 10px 25px rgba(99, 102, 241, 0.3)" }}
               whileTap={{ scale: 0.95 }}
@@ -272,7 +272,7 @@ export function Hero() {
             >
                   <div className="w-full h-full rounded-full bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-700 dark:to-slate-800 flex items-center justify-center overflow-hidden relative">
                     <img 
-                      src="/profile-picture.jpg" 
+                      src="/about-me/profile-picture.jpg" 
                       alt="Manikanta Kottapalli" 
                       className="w-full h-full object-contain rounded-full p-0.5"
                     />
