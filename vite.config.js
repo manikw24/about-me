@@ -6,8 +6,4 @@ var base = process.env.BASE || (isProd ? '/about-me/' : '/');
 export default defineConfig({
     plugins: [react()],
     base: base,
-    build: {
-        outDir: 'docs',
-        emptyOutDir: true,
-    },
 });
