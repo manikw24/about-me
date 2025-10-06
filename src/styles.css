@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ring: theme(colors.brand.500);
+}
+
+/* Smooth section reveal */
+.section {
+  @apply py-16 md:py-24; 
+}
+
+.btn {
+  @apply inline-flex items-center justify-center rounded-md px-4 py-2 text-sm font-medium transition-colors;
+}
+.btn-primary {
+  @apply bg-brand-600 text-white hover:bg-brand-700 focus:ring-2 focus:ring-brand-500;
+}
+.btn-outline {
+  @apply border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800;
+}
+
+.card {
+  @apply rounded-xl border border-slate-200 dark:border-slate-800 bg-white/60 dark:bg-slate-900/60 backdrop-blur shadow-sm;
+}
+
+/* Typography */
+h1,h2,h3,h4 {
+  @apply tracking-tight;
+}
+
+/* Hide scrollbar */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+
